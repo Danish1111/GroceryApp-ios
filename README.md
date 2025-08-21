@@ -5,7 +5,7 @@ A simple and modern **Grocery Shopping App** built with SwiftUI.
 ---
 
 ## 🎥 Demo
-![App Demo](./Screenshots/demo.gif)
+![App Demo](./Screenshots/GroceryApp.gif)
 
 ---
 
@@ -13,15 +13,15 @@ A simple and modern **Grocery Shopping App** built with SwiftUI.
 
 | Home | Products | Cart |
 |------|----------|------|
-| ![Home](./Screenshots/screenshot1.png) | ![Products](./Screenshots/screenshot2.png) | ![Cart](./Screenshots/screenshot3.png) |
+| ![Home](./Screenshots/screen.png) | ![Products](./Screenshots/screen2.png) | ![Cart](./Screenshots/screen3.png) |
 
 | Checkout | Profile | Orders |
 |----------|----------|--------|
-| ![Checkout](./Screenshots/screenshot4.png) | ![Profile](./Screenshots/screenshot5.png) | ![Orders](./Screenshots/screenshot6.png) |
+| ![Checkout](./Screenshots/screen4.png) | ![Profile](./Screenshots/screen5.png) | ![Orders](./Screenshots/screen6.png) |
 
 | Search | Categories | Offers | Settings |
 |--------|------------|--------|----------|
-| ![Search](./Screenshots/screenshot7.png) | ![Categories](./Screenshots/screenshot8.png) | ![Offers](./Screenshots/screenshot9.png) | ![Settings](./Screenshots/screenshot10.png) |
+| ![Search](./Screenshots/screen7.png) | ![Categories](./Screenshots/screen8.png) | ![Offers](./Screenshots/screen9.png) | ![Settings](./Screenshots/screen10.png) |
 
 ---
 
@@ -35,6 +35,7 @@ A simple and modern **Grocery Shopping App** built with SwiftUI.
 ---
 
 ## 🛠 Tech Stack
+- Swift 5
 - SwiftUI
 - MVVM Architecture
 
@@ -43,5 +44,5 @@ A simple and modern **Grocery Shopping App** built with SwiftUI.
 ## 🚀 How to Run
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Danish1111/GroceryApp-ios.git
 
