@@ -11,13 +11,13 @@ A simple and modern **Grocery Shopping App** built with SwiftUI.
 
 ## 📸 Screenshots
 
-| Login | DashBoard | Product |
+| Splash | Login | Dashboard |
 |------|----------|------|
-| ![Login](./Screenshots/screen.png) | ![DashBoard](./Screenshots/screen9.png) | ![Product](./Screenshots/screen5.png) |
+| ![Splash](./Screenshots/screen12.png) | ![Login](./Screenshots/screen.png) | ![Dashboard](./Screenshots/screen3.png) |
 
-| Product | Profile | Registration |
+| Product | Profile | Product |
 |----------|----------|--------|
-| ![Product](./Screenshots/screen6.png) | ![Profile](./Screenshots/screen10.png) | ![Registration](./Screenshots/screen2.png) |
+| ![Product](./Screenshots/screen6.png) | ![Profile](./Screenshots/screen10.png) | ![Product](./Screenshots/screen6.png) |
 
 ---
 
