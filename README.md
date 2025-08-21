@@ -5,23 +5,19 @@ A simple and modern **Grocery Shopping App** built with SwiftUI.
 ---
 
 ## 🎥 Demo
-![App Demo](./Screenshots/GroceryApp.gif)
+![App Demo](./Screenshots/GroceryApp1.gif)
 
 ---
 
 ## 📸 Screenshots
 
-| Home | Products | Cart |
+| Login | DashBoard | Product |
 |------|----------|------|
-| ![Home](./Screenshots/screen.png) | ![Products](./Screenshots/screen2.png) | ![Cart](./Screenshots/screen3.png) |
+| ![Login](./Screenshots/screen.png) | ![DashBoard](./Screenshots/screen9.png) | ![Product](./Screenshots/screen5.png) |
 
-| Checkout | Profile | Orders |
+| Product | Profile | Registration |
 |----------|----------|--------|
-| ![Checkout](./Screenshots/screen4.png) | ![Profile](./Screenshots/screen5.png) | ![Orders](./Screenshots/screen6.png) |
-
-| Search | Categories | Offers | Settings |
-|--------|------------|--------|----------|
-| ![Search](./Screenshots/screen7.png) | ![Categories](./Screenshots/screen8.png) | ![Offers](./Screenshots/screen9.png) | ![Settings](./Screenshots/screen10.png) |
+| ![Product](./Screenshots/screen6.png) | ![Profile](./Screenshots/screen10.png) | ![Registration](./Screenshots/screen2.png) |
 
 ---
 
@@ -35,7 +31,6 @@ A simple and modern **Grocery Shopping App** built with SwiftUI.
 ---
 
 ## 🛠 Tech Stack
-- Swift 5
 - SwiftUI
 - MVVM Architecture
 
